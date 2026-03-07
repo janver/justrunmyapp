@@ -25,6 +25,9 @@
 ## 这一页建议按照我的这个项目"https://github.com/zv201413/zvps-super" 或者自行配置，因为本项目所需镜像文件本质上是在此基础上修改的，更多高级玩法请参考之
 <img width="1571" height="868" alt="image" src="https://github.com/user-attachments/assets/50b51a3f-3652-4758-b33e-059aa041e537" />
 
-## 最后run就好了
+## 最后点start。到此处你可以给我项目点个星星了
 <img width="1510" height="317" alt="image" src="https://github.com/user-attachments/assets/476eed4e-6ee7-4934-9a54-0967d75437ae" />
+
+### 补充：最后你可以在它shell终端进行操作，你可以把它当成一个nodejs环境的简易vps；如果你仔细看了本项目相关项目你也可以实现本地ssh
+<img width="731" height="657" alt="image" src="https://github.com/user-attachments/assets/e8d7589a-0a9e-40a7-ae68-c40392c9fc64" />
 
