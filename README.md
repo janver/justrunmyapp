@@ -29,7 +29,7 @@
 <img width="1571" height="868" alt="image" src="https://github.com/user-attachments/assets/50b51a3f-3652-4758-b33e-059aa041e537" />
 
 ### 也可以直接参考我的配置（参数含义请看另一个项目说明）
-<img width="1472" height="899" alt="image" src="https://github.com/user-attachments/assets/a1594e09-36b2-4109-97a6-b3b36e6b49c6" />
+<img width="1554" height="894" alt="image" src="https://github.com/user-attachments/assets/b00dce16-ea8a-401b-9bcd-1897e66a7b00" />
 
 
 ## 最后点start。到此处你可以给我项目点个星星了
